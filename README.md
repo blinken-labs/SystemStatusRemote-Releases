@@ -32,6 +32,12 @@ port 47820). Releases are signed with a Developer ID and notarized by Apple.
 On first launch macOS asks for Keychain access (choose **Always Allow**), incoming connections on the host, and
 the local network on each client (choose **Allow**).
 
+## How many Macs
+
+The host pairs up to **2** clients. **SystemStatusRemote Pro**, a one-time purchase in the Mac App Store version
+of the host, lets it pair any number; these downloads can't buy it. Macs already paired stay paired, and the
+client is always free. Settings (General) on the host shows how many Macs are paired.
+
 ## Updating from 1.0.x
 
 1.1 is from Blinken Labs, so macOS sees the apps as new ones: settings and history start afresh, and every Mac
